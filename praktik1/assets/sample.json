@@ -1,0 +1,34 @@
+{
+    "name": "natasya - juliana",
+    "age":16,
+    "hobby": [
+        "Menulis",
+        "Desain",
+        "Belajar Bahasa"
+    ],
+
+    "github": {
+        "username": "natasyajuliaa",
+        "repositories": "8979",
+        "isGDE": true
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "title": "God of war",
+            "subtitle": "that is movie"
+        },
+        {
+            "id": 2,
+            "title": "Anantaa",
+            "subtitle": "that is love story"
+        },
+        {
+            "id": 3,
+            "title": "Avanger",
+            "subtitle": "that is hero"
+        }
+
+    ]
+}

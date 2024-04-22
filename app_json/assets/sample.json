@@ -1,0 +1,32 @@
+{
+    "name": "Septian - Siswa",
+    "age": 17,
+    "hobby": [
+        "Coding",
+        "Olahraga",
+        "Main Game"
+    ],
+    "github":{
+        "username": "@Septian-Project",
+        "repositories": 12,
+        "isGDE": true
+    },
+    "books": [
+        {
+            "id": 1,
+            "title": "Book 1",
+            "subtitle": "This is Book 1"
+        },
+        {
+            "id": 2,
+            "title": "Book 2",
+            "subtitle": "This is Book 2"
+        },
+        {
+            "id": 3,
+            "title": "Book 3",
+            "subtitle": "This is Book 3"
+        }
+    ]
+    
+}
